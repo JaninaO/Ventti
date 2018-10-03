@@ -1,14 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package ventti;
 
-/**
- *
- * @author s1800588
- */
+
 public enum Arvo {
-    
+    KAKSI, KOLME, NELJÄ, VIISI, KUUSI, SEITSEMÄN, KAHDEKSAN, YHDEKSÄN, KYMMENEN, JÄTKÄ, KUNINGATAR, KUNINGAS, ÄSSÄ
 }
