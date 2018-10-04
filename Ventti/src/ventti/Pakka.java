@@ -30,5 +30,10 @@ public class Pakka {
         }
         this.pakka = tmpPakka;
     }
+    public Kortti jaaKortti() {
+        Kortti k = this.pakka.get(0);
+        this.pakka.remove(0);
+        return k;
+    }
 
 }
